@@ -1,4 +1,4 @@
-# CrudOperations sample application
+# Garlic Shop sample application
 
 ## Setup
 
